@@ -10,7 +10,7 @@ Breast cancer is one of the most common cancers among women worldwide. Early and
 
 The dataset used in this analysis is the Breast Cancer Wisconsin (Diagnostic) Dataset, which includes measurements for 569 instances of breast masses, each with 30 features computed from a digitized image. The target variable indicates the diagnosis (malignant or benign).
 
-## Models Evaluated
+## Models Evaluated (Classification)
 
 - Logistic Regression
 - Support Vector Machines (SVM)
